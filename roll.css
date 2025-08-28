@@ -1,0 +1,59 @@
+body{
+    background-color:rgba(191, 220, 228, 0.983);
+}
+#number{    
+    color:#2C3E50;
+    font-family:fantasy;
+    font-size:23px;
+}
+
+label{
+    color:#2C3E50;
+    font-family:'Courier New', Courier, monospace;
+    font-weight:bold;
+}
+h1{
+    font-size:40px;
+    font-family:'Press Start 2P';
+    color:#851f1f;
+}
+#container{
+    font-family:Helvetica;
+    text-align:center;
+    font-size:2rem;
+    font-weight:bold;
+}
+button{
+    font-size:1.5rem;
+    padding:10px 15px;
+    border-radius:10px;
+    border:none;
+    font-family:'Courier New', Courier, monospace;
+    background-color:#2C3E50;
+    color:#F0F4F8;
+    font-weight:bold;
+    cursor:pointer;
+}
+button:hover{
+    background-color:#c9dff6;
+}
+button:active{
+    background-color:rgb(165, 204, 216);
+}
+input{
+    font-size:2rem;
+    width:150px; 
+    text-align:center;
+    font-weight:bold;
+}
+#result{
+    font-family:'Courier New', Courier, monospace;
+    color:#851f1f;
+    font-size:25px;
+    text-decoration:underline;
+    margin:25px;
+}
+#images img{
+    width:80px;
+    margin:5px;
+}
